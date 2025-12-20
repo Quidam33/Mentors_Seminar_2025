@@ -17,4 +17,3 @@
 - Образ: https://hub.docker.com/repository/docker/quidam33/todo-service/general
 - Документация: http://localhost:8000/docs
 
-## Примеры работы
