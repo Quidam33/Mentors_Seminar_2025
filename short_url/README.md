@@ -16,4 +16,4 @@
 - Образ: https://hub.docker.com/repository/docker/quidam33/shorturl-service
 - Документация: http://localhost:8001/docs
 
-## Примеры работы
+
